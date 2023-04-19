@@ -22,19 +22,25 @@
 .sociales{
     width: 90px;
     height: 98px;
-    background-color: aqua;
+    background-color: azure
     margin: 2px;
 }
 .ingles{
     width: 90px;
     height: 98px;
-    background: rgb(245, 117, 172);
+    background-color: azure
     margin: 2px;
 }
 .matematicas{
     width: 90px;
     height: 98px;
-    background-color: cadetblue;
+    background-color: azure;
+    margin: 2px;
+}
+.biologia{
+    width: 90px;
+    height: 98px;
+    background-color: azure;
     margin: 2px;
 }
 .contenedor2{
