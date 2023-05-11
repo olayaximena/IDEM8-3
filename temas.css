@@ -36,12 +36,15 @@
     height: 98px;
     background-color: azure;
     margin: 2px;
+    background-image: url(matematicas.jpg);
+
 }
 .biologia{
     width: 90px;
     height: 98px;
     background-color: azure;
     margin: 2px;
+    background-image: url(biologia.jpg);
 }
 .contenedor2{
 
