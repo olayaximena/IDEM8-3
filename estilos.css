@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("grado83.jpg");
     
     background-repeat: no-repeat;
     
@@ -37,7 +37,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("medellin.jpg");
     
     }
     
@@ -52,6 +52,7 @@
     }
     
     .texto{
+    
     
     font-size: 40px;
     
