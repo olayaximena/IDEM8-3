@@ -9,14 +9,20 @@
     
     
     
-    body{
+    .fondotecno{
     
-    background-image: url("grado83.jpg");
+    background-image: url("tecno.jpg");
     
     background-repeat: no-repeat;
     
     }
+    body{
     
+        background-image: url("grado83.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
     
     
     .img{
@@ -63,3 +69,53 @@
      
     
     }
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("medellin.jpeg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: rgb(29, 24, 21);
+        
+        font-size: 30px;
+        
+        
+        
+        }
+        
