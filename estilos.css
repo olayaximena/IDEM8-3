@@ -101,7 +101,9 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("operadores.png");
+
+        background-image: url("");
         
         }
         
@@ -113,7 +115,7 @@
         
         color: rgb(29, 24, 21);
         
-        font-size: 30px;
+        font-size: 40px;
         
         
         
@@ -141,7 +143,7 @@
             
             background-repeat: no-repeat;
             
-            float:left;
+            float: left;
             
             height: 200px;
             
@@ -186,26 +188,9 @@
                 }
                 
                  
+        
                 
-                .imagenmatema{
-                
-                 
-                
-                background-repeat: no-repeat;
-                
-                float:left;
-                
-                height: 200px;
-                
-                width: 260px;
-                
-                margin-left: 5px;
-                
-                margin-right:5px;
-                
-                background-image: url("medellin.jpeg");
-                
-                }
+            
                 
                 
                 
@@ -215,7 +200,7 @@
                 
                 color: azure;
                 
-                font-size: 20px;
+                font-size: 30px;
                 
                 
                 
