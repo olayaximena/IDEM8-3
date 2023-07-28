@@ -103,7 +103,6 @@
         
         background-image: url("operadores.png");
 
-        background-image: url("");
         
         }
         
@@ -121,9 +120,70 @@
         
         }
 
+        .fondosocia{
+    
+            background-image: url("grado83.jpg");
+            
+            background-repeat: no-repeat;
+            
+            }
+            body{
+            
+                background-image: url("grado83.jpg");
+                
+                background-repeat: no-repeat;
+                
+                }
+            
+            
+            .img{
+            
+            position: relative;
+            
+             
+            
+            width: 190px;
+            
+            height: 190px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 180px;
+            
+            background-image: url("medellin.jpg");
+            
+            }
+            
+            .contenedor{
+            
+             
+            
+            height: 230px;
+            
+             
+            
+            }
+            
+            .texto{
+            
+            
+            font-size: 40px;
+            
+            text-align: justify;
+            
+            color: brown;
+            
+             
+            
+            }
+
         .contenido{
 
-            height: 280px;
+            height: 282px;
             
             width: 100%;
             
@@ -173,6 +233,67 @@
             
             }
 
+            .fondomatema{
+    
+                background-image: url("grado83.jpg");
+                
+                background-repeat: no-repeat;
+                
+                }
+                body{
+                
+                    background-image: url("grado83.jpg");
+                    
+                    background-repeat: no-repeat;
+                    
+                    }
+                
+                
+                .img{
+                
+                position: relative;
+                
+                 
+                
+                width: 190px;
+                
+                height: 190px;
+                
+                border-radius: 10px;
+                
+                background-repeat: no-repeat;
+                
+                 
+                
+                left: 180px;
+                
+                background-image: url("medellin.jpg");
+                
+                }
+                
+                .contenedor{
+                
+                 
+                
+                height: 230px;
+                
+                 
+                
+                }
+                
+                .texto{
+                
+                
+                font-size: 40px;
+                
+                text-align: justify;
+                
+                color: brown;
+                
+                 
+                
+                }
+
             .contenido{
 
                 height: 280px;
@@ -206,6 +327,67 @@
                 
                 }
 
+                .fondoingl{
+    
+                    background-image: url("grado83.jpg");
+                    
+                    background-repeat: no-repeat;
+                    
+                    }
+                    body{
+                    
+                        background-image: url("grado83.jpg");
+                        
+                        background-repeat: no-repeat;
+                        
+                        }
+                    
+                    
+                    .img{
+                    
+                    position: relative;
+                    
+                     
+                    
+                    width: 190px;
+                    
+                    height: 190px;
+                    
+                    border-radius: 10px;
+                    
+                    background-repeat: no-repeat;
+                    
+                     
+                    
+                    left: 180px;
+                    
+                    background-image: url("medellin.jpg");
+                    
+                    }
+                    
+                    .contenedor{
+                    
+                     
+                    
+                    height: 230px;
+                    
+                     
+                    
+                    }
+                    
+                    .texto{
+                    
+                    
+                    font-size: 40px;
+                    
+                    text-align: justify;
+                    
+                    color: brown;
+                    
+                     
+                    
+                    }
+
                 .contenido{
 
                     height: 280px;
@@ -238,7 +420,7 @@
                     
                     margin-right:5px;
                     
-                    background-image: url("medellin.jpeg");
+                    background-image: url("ingles.jpg");
                     
                     }
                     
@@ -255,6 +437,67 @@
                     
                     
                     }
+
+                    .fondoreligi{
+    
+                        background-image: url("grado83.jpg");
+                        
+                        background-repeat: no-repeat;
+                        
+                        }
+                        body{
+                        
+                            background-image: url("grado83.jpg");
+                            
+                            background-repeat: no-repeat;
+                            
+                            }
+                        
+                        
+                        .img{
+                        
+                        position: relative;
+                        
+                         
+                        
+                        width: 190px;
+                        
+                        height: 190px;
+                        
+                        border-radius: 10px;
+                        
+                        background-repeat: no-repeat;
+                        
+                         
+                        
+                        left: 180px;
+                        
+                        background-image: url("medellin.jpg");
+                        
+                        }
+                        
+                        .contenedor{
+                        
+                         
+                        
+                        height: 230px;
+                        
+                         
+                        
+                        }
+                        
+                        .texto{
+                        
+                        
+                        font-size: 40px;
+                        
+                        text-align: justify;
+                        
+                        color: brown;
+                        
+                         
+                        
+                        }
 
                     .contenido{
 
@@ -305,6 +548,67 @@
                         
                         
                         }
+
+                        .fondobiolo{
+    
+                            background-image: url("grado83.jpg");
+                            
+                            background-repeat: no-repeat;
+                            
+                            }
+                            body{
+                            
+                                background-image: url("grado83.jpg");
+                                
+                                background-repeat: no-repeat;
+                                
+                                }
+                            
+                            
+                            .img{
+                            
+                            position: relative;
+                            
+                             
+                            
+                            width: 190px;
+                            
+                            height: 190px;
+                            
+                            border-radius: 10px;
+                            
+                            background-repeat: no-repeat;
+                            
+                             
+                            
+                            left: 180px;
+                            
+                            background-image: url("medellin.jpg");
+                            
+                            }
+                            
+                            .contenedor{
+                            
+                             
+                            
+                            height: 230px;
+                            
+                             
+                            
+                            }
+                            
+                            .texto{
+                            
+                            
+                            font-size: 40px;
+                            
+                            text-align: justify;
+                            
+                            color: brown;
+                            
+                             
+                            
+                            }
 
                         .contenido{
 
