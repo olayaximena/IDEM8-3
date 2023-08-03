@@ -101,7 +101,7 @@
         
         margin-right:5px;
         
-        background-image: url("operadores.png");
+        background-image: url("cricuito.png");
 
         
         }
@@ -110,7 +110,7 @@
         
         .textotecno{
         
-        text-align: justify;
+        text-align: right;
         
         color: rgb(29, 24, 21);
         
@@ -183,9 +183,9 @@
 
         .contenido{
 
-            height: 282px;
+            height: 280px;
             
-            width: 100%;
+            width: 101%;
             
             position: absolute;
             
@@ -203,11 +203,11 @@
             
             background-repeat: no-repeat;
             
-            float: left;
+            float: right;
             
-            height: 200px;
+            height: 189px;
             
-            width: 260px;
+            width: 1243px;
             
             margin-left: 5px;
             
@@ -223,7 +223,7 @@
             
             .textosocia{
             
-            text-align: justify;
+            text-align: right;
             
             color: azure;
             
