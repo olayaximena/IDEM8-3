@@ -331,14 +331,14 @@
     
                     background-image: url("grado83.jpg");
                     
-                    background-repeat: no-repeat;
+                    background-repeat: repeat;
                     
                     }
                     body{
                     
                         background-image: url("grado83.jpg");
                         
-                        background-repeat: no-repeat;
+                        background-repeat: repeat;
                         
                         }
                     
@@ -442,14 +442,14 @@
     
                         background-image: url("grado83.jpg");
                         
-                        background-repeat: no-repeat;
+                        background-repeat: repeat;
                         
                         }
                         body{
                         
                             background-image: url("grado83.jpg");
                             
-                            background-repeat: no-repeat;
+                            background-repeat: repeat;
                             
                             }
                         
@@ -553,7 +553,7 @@
     
                             background-image: url("grado83.jpg");
                             
-                            background-repeat: no-repeat;
+                            background-repeat: repeat;
                             
                             }
                             body{
@@ -660,7 +660,11 @@
                             
                             }
                             
-                        
+                        .titulo{
+                            text-align: center;
+                            font-size: 30px;
+                            font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        }
                     
                 
             
