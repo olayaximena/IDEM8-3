@@ -91,7 +91,7 @@
         
         background-repeat: repeat;
         
-        float:left;
+        float:center;
         
         height: 200px;
         
@@ -110,7 +110,7 @@
         
         .textotecno{
         
-        text-align: right;
+        text-align:center;
         
         color: rgb(29, 24, 21);
         
